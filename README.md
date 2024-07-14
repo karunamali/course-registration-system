@@ -33,7 +33,9 @@ The Course Registration System is designed to manage course registrations for st
    git clone https://github.com/your-username/your-repo.git
 
 
-   ## Usage
+
+
+### Usage
 
 1. Launch the application.
 2. The main window will display a list of all available courses.
