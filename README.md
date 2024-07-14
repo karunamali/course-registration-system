@@ -31,3 +31,16 @@ The Course Registration System is designed to manage course registrations for st
 
    ```sh
    git clone https://github.com/your-username/your-repo.git
+
+
+   ## Usage
+
+1. Launch the application.
+2. The main window will display a list of all available courses.
+3. To register for a course:
+   - Enter the student ID, student name, and course code.
+   - Click the "Register" button.
+4. To view registered courses:
+   - Enter the student ID.
+   - Click the "View Registered Courses" button.
+
